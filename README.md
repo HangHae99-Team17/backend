@@ -41,20 +41,11 @@ User가 read요청을 하게되면, 서버는 MYSQL에 저장되어 있던 데�
 * Back-end
 
 Java 8
-SpringBoot 2.5.2
-Spring Security
-Gradle 7.0.2
-JPA
-MySQL 8.0
+SpringBoot 2.5.2, Spring Security, Gradle 7.0.2, JPA, MySQL 8.0
 
 * DevOps
 
-github Action
-Nginx
-AWS EC2 (Ubuntu 18.04)
-AWS RDS (MySQL 8.0)
-AWS S3
-AWS codeDeploy
+github Action, Nginx, AWS EC2 (Ubuntu 18.04), AWS RDS (MySQL 8.0), AWS S3, AWS codeDeploy
 
 
  
