@@ -3,6 +3,17 @@
 # 주요기능 아키텍처
 ![image](https://user-images.githubusercontent.com/90609214/144568667-2a0749ca-d04c-4606-8aa2-9dcb98e77eb3.png)
 
+* Create
+
+Admin이 create요청을 하게되면 입력한 값 중 이미지파일은 s3에 저장되고, s3에서는 저장된 이미지의 url을 서버에 보내줍니다. 이 이미지 url은 보내진 다른 값들과 함께 MYSQL에 저장됩니다. 
+* Update
+
+Admind이 update요청할때는 MYSQL에 원래 존재하는 데이터들을 업데이트 해주고 이미지파일은 S3에서 원래있던 사진을 삭제하고 저장됩니다. 그리고 s3에서 url을 가져와 기존사진 url을 업테이트합니다.
+* Delete
+
+Admin이 삭제요청하면 S3에있는 이미지 파일과 함께 DB안에 데이터를 삭제합니다. 
+* Read
+User가 read요청을 하게되면, 서버는 MYSQL에 저장되어 있던 데이터들을 불러와 프론트로 응답해줍니다. 서버에서 보내준 이미지URL은 프론트에서 이미지화 시켜 보여줍니다.
 
  
  
