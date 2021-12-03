@@ -4,7 +4,7 @@
  오성현, 심우진, 정혜원, 박상수, 조민갑, 이근호, 황인태
  
 # 배포 파이프라인
-![]https://www.notion.so/27ab79026c20468689a85f090a7f563a#a4a7a5edc3ae42ac995c8fe227ea8d82
+![](https://www.notion.so/27ab79026c20468689a85f090a7f563a#a4a7a5edc3ae42ac995c8fe227ea8d82)
 
 
 # ERD
