@@ -4,8 +4,8 @@
  오성현, 심우진, 정혜원, 박상수, 조민갑, 이근호, 황인태
  
 # 배포 파이프라인
-![image](https://user-images.githubusercontent.com/90609214/144567487-c2411452-370e-41cb-b638-73667fbca905.png)
 
+![image](https://user-images.githubusercontent.com/90609214/144567611-a6a55e77-efe4-4ee2-9166-4372f80618b9.png)
 
 
 # ERD
