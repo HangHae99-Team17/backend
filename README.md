@@ -40,8 +40,7 @@ User가 read요청을 하게되면, 서버는 MYSQL에 저장되어 있던 데�
 
 * Back-end
 
-Java 8
-SpringBoot 2.5.2, Spring Security, Gradle 7.0.2, JPA, MySQL 8.0
+Java 8, SpringBoot 2.5.2, Spring Security, Gradle 7.0.2, JPA, MySQL 8.0
 
 * DevOps
 
