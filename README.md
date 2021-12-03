@@ -4,11 +4,13 @@
  오성현, 심우진, 정혜원, 박상수, 조민갑, 이근호, 황인태
  
 # 배포 파이프라인
-![](https://www.notion.so/27ab79026c20468689a85f090a7f563a#a4a7a5edc3ae42ac995c8fe227ea8d82)
+![image](https://user-images.githubusercontent.com/90609214/144567487-c2411452-370e-41cb-b638-73667fbca905.png)
+
 
 
 # ERD
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ada0a44-45f2-44ce-a4f0-bf97482e6201/Untitled.png)
+![image](https://user-images.githubusercontent.com/90609214/144567537-b1537ae6-6cdd-43c0-a29f-2f7a12cc3432.png)
+
 
 쿠폰이라는 객체는 브랜드, 설명, 등등 할인정보들의 정보와 그 할인정보의 디테일들을 가져옵니다.  
 
