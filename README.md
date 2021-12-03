@@ -1,11 +1,14 @@
 # 실전 프로젝트 <굳다>
   
 # Team
- 오성현, 심우진, 정혜원, 박상수, 조민갑, 이근호, 황인태
+![image](https://user-images.githubusercontent.com/90609214/144568268-40e390ec-ac72-478d-a4de-97cc584e557e.png)
  
-# 배포 파이프라인
+# 백엔드 배포 파이프라인
 
 ![image](https://user-images.githubusercontent.com/90609214/144567611-a6a55e77-efe4-4ee2-9166-4372f80618b9.png)
+
+인텔리제이에서 깃헙에 올리고 깃헙에서 액션으로 s3와 codeDeploy를 이용하여 자동적으로 통합하고 배포를 합니다. 그리고 엔진엑스를 이용하여 로드밸런싱, 무중단배포, HTTPS를 적용하려고 했는데 현재 11월 30일기준 HTTPS만 적용되어있는 상태입니다. 
+
 
 
 # ERD
