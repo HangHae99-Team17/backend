@@ -36,7 +36,25 @@ User가 read요청을 하게되면, 서버는 MYSQL에 저장되어 있던 데�
 
 폴더는 유저가 쿠폰을 찜한 내역과 기록을 저장하는 객체로서 유저와 쿠폰의 키값을 외래키로 가져와서 저장합니다.
 
+# 기술스택
 
+* Back-end
+
+Java 8
+SpringBoot 2.5.2
+Spring Security
+Gradle 7.0.2
+JPA
+MySQL 8.0
+
+* DevOps
+
+github Action
+Nginx
+AWS EC2 (Ubuntu 18.04)
+AWS RDS (MySQL 8.0)
+AWS S3
+AWS codeDeploy
 
 
  
