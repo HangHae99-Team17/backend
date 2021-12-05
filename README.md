@@ -47,5 +47,14 @@ Java 8, SpringBoot 2.5.2, Spring Security, Gradle 7.0.2, JPA, MySQL 8.0
 github Action, Nginx, AWS EC2 (Ubuntu 18.04), AWS RDS (MySQL 8.0), AWS S3, AWS codeDeploy
 
 
+# Future Work
+
+ 1. 수정 자동화 (크롤링? or html파싱?)
+ 2. 로드밸런싱 
+ 3. 무중단배포
+ 4. 이메일 인증 
+ 5. 스웨거
+ 6. 알림기능(소켓)
+ 7. 소셜로그인 
  
     
