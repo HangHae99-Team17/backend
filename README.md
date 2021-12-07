@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/90609214/144568268-40e390ec-ac72-478d-a4de-97cc584e557e.png)
- 
+
 # 주요기능 아키텍처
 ![image](https://user-images.githubusercontent.com/90609214/144568667-2a0749ca-d04c-4606-8aa2-9dcb98e77eb3.png)
 
