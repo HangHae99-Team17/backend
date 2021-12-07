@@ -55,5 +55,7 @@ github Action, Nginx, AWS EC2 (Ubuntu 18.04), AWS RDS (MySQL 8.0), AWS S3, AWS c
  5. 스웨거
  6. 알림기능(소켓)
  7. 소셜로그인 
+ 8. qureyDsl 적용
+ 9. 리팩토링
  
     
