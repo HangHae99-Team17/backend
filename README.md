@@ -49,10 +49,6 @@
       <li>react-infinite-scroll-component</li>
       <li>react-datepicker</li>
      </ul>
-    <h3>🛠Backend</h3>
-    <ul>
-      <li> Spring (<a href = "https://github.com/HangHae99-Team17/backend/blob/master/README.md"> Backend Repository 이동 </a>)</li>
-    </ul>
     <h1>4. 굳다는 앞으로</h1>
     <ul>
       <li><strong>렌더링 최적화</strong>를 시도중이에요</li>
